@@ -17,10 +17,10 @@ import baj3 from "./assets/Projects/project3.png";
 import baj4 from "./assets/Projects/endpoint-security1.png";
 import baj5 from "./assets/Projects/introduction-to-modern-ai.png";
 import baj6 from "./assets/Projects/network-technician-career-path1.png";
-import person_project from "./assets/Projects/Pic1.png";
+
 
 import Hireme_person from "./assets/Hireme/person2.png";
-import Hireme_person2 from "./assets/Projects/Pic1.png";
+import Hireme_person2 from "./assets/Hireme/person1.png";
 
 
 import { GrMail } from "react-icons/gr";
@@ -127,7 +127,6 @@ export const content = {
   Projects: {
     title: "Badges and Projects",
     subtitle: "MY CREATION",
-    image: person_project,
     project_content: [
       {
         title: "Wireshark Traffic Analysis",
